@@ -9,7 +9,7 @@ import (
 	"log"
 	"os"
 
-	autospotting "github.com/AutoSpotting/AutoSpotting/core"
+	autospotting "github.com/Bairagi/AutoSpotting/core"
 	"github.com/aws/aws-lambda-go/events"
 	"github.com/aws/aws-lambda-go/lambda"
 )
