@@ -1,11 +1,11 @@
-module github.com/AutoSpotting/AutoSpotting
+module github.com/Bairagi/AutoSpotting
 
 go 1.14
 
 require (
+	github.com/Bairagi/ec2-instances-info v0.0.0-20200810072705-099220d7da1d
 	github.com/aws/aws-lambda-go v1.16.0
 	github.com/aws/aws-sdk-go v1.30.7
-	github.com/cristim/ec2-instances-info v0.0.0-20200313152655-3f08567bd2ad
 	github.com/davecgh/go-spew v1.1.1
 	github.com/mattn/goveralls v0.0.5
 	github.com/namsral/flag v0.0.0-20170814194028-67f268f20922
